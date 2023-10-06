@@ -1,3 +1,5 @@
+This boilerplate is designed to kickstart your authentication journey with the popular React framework - Next.js, and the robust authentication library - NextAuth. Paired with MongoDB for data storage, this starter project provides a seamless and efficient way to incorporate user authentication into your application.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
